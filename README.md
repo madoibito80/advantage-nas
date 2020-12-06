@@ -1,5 +1,6 @@
 # AdvantageNAS: Efficient Neural Architecture Search with Credit Assignment
 
+## TL;DR
 This repository contains the **official** implementation of AdvantageNAS.
 This repository is implemented and managed by Rei Sato, the first author of the paper entitled "AdvantageNAS: Efficient Neural Architecture Search with Credit Assignment", accepted to AAAI-21.
 
